@@ -4,7 +4,6 @@
 - Setup github accounts for all students
 - Enroll all students into organization
 - Create a repo for each students, and assign access for the Winter2017WebApps team appropriately
-- Create a gh-pages branch in the student's repo with automatic page generator tool
 - Setup programming envrionment
 - Create first html page, intro to html
 - Style first html page, intro to css
