@@ -76,7 +76,11 @@ Students will learn the basics of p5js (a JavaScript library implementation of [
 
 - Github
     - [Home Page](https://github.com/)
-    - [Help Page](https://help.github.com/) 
+    - [Help Page](https://help.github.com/)
+    
+- Testing
+    - [HTML preview](http://htmlpreview.github.io/)
+    - [RawGit, serving github files without "content-type" headers](http://rawgit.com/)
 
 ***
 
