@@ -1,1 +1,6 @@
-Create show-off-able and awesome interactive web apps that will make everyone ask how you did that. Students will be using HTML, CSS, and JavaScript to create impressive applications that will be hosted on your own website. HTML is the brawn, the backbone of your website. CSS is the beauty, the looks of your site. JavaScript is the brains. When you combine all three, your websites become more than just a wall of text. They become microscopic universes and awe inspiring sculptures. Come out of this with interactive apps posted to your spectacularly designed personal website.
+Create show-off-able and awesome interactive web apps that will make everyone ask how you did that. 
+Students will be using HTML, CSS, and JavaScript to create impressive applications that will be hosted on your own website. 
+
+HTML is the brawn, the backbone of your website. CSS is the beauty, the looks of your site. JavaScript is the brains. When you combine all three, your websites become more than just a wall of text. They become microscopic universes and awe inspiring sculptures. Come out of this with interactive apps posted to your spectacularly designed personal website.
+
+Classes will be held once a week on Wednesday nights at 6:30PM at SkillMillNYC (need address included). There will be eight sessions. The class dates are as follows: January 11, 18, 25, February 1, 8, 15, 22, March 1. The class costs $400 ($50 per session).
