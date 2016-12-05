@@ -1,0 +1,13 @@
+body {
+  font-size: 14px;
+  color: navy;
+  background-color: white;
+}
+
+#section-title{
+  background-color: gray;
+}
+
+#main-content{
+  background-color: yellow;
+}
