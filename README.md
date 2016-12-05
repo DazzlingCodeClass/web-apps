@@ -61,7 +61,7 @@ Students will learn the basics of p5js (a JavaScript library implementation of [
     - [w3schools, general tutorials with web focus](http://www.w3schools.com/js/)
     - [Reddit, good for searching for questions](https://www.reddit.com/r/javascript/)
     - [Code Academy, text based tutorials](https://www.codecademy.com/learn/javascript)
-    - [Stack Overflow, forum for asking and searching for questions/answers (http://stackoverflow.com/questions/tagged/javascript)
+    - [Stack Overflow, forum for asking and searching for questions/answers](http://stackoverflow.com/questions/tagged/javascript)
     - [Mozilla Dev Network, resources and guides not for beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - p5js
     - [Home Page](https://p5js.org/)
