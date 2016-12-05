@@ -47,8 +47,8 @@ Students will learn the basics of p5js (a JavaScript library implementation of [
 | Class Session | Topics Covered                                                                        |
 |:--------------|:--------------------------------------------------------------------------------------|
 | One           | course intro, github intro and account creation, project1, part1 (website creation and styling)|
-| Two           | project 1, part2 (hosting setup, adding first project to personal site, start project framework) |
-| Three         | project 1, part2 (adding interactivity, styling, and finishing touches)|
+| Two           | project 1, part 1 (hosting setup, adding first project to personal site, start project framework) |
+| Three         | project 1, part 2 (adding interactivity, styling, and finishing touches)|
 | Four          |     |
 | Five          |     |
 | Six           |     |
