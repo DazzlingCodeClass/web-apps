@@ -2,7 +2,13 @@
 <html>
 
   <head>
-  <title>My First Site!</title>
+    <script>
+      var name = prompt("What is your name?");
+      if(name != NULL){
+        document.getElementById("title_name").innerHTML = "Hello " + name;
+      }
+    </script>
+  <title id = "title_name"></title>
   <link rel="stylesheet" href="style.css"/>
   <meta charset="UTF-8">
   <meta name="author" content="Luc Pitre">
