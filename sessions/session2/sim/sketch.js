@@ -1,6 +1,7 @@
 var xpos;
 var ypos;
-var speed;
+var xspeed;
+var yspeed;
 
 function setup() {
   createCanvas(displayWidth, displayHeight);
@@ -27,8 +28,8 @@ function draw() {
   }
   
   ellipse(xpos, ypos, 20, 20);
-  xpos+=speed;
-  ypos+=speed;
+  xpos+=xspeed;
+  ypos+=yspeed;
   
   
 }
