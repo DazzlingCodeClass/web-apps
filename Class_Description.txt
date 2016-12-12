@@ -1,4 +1,4 @@
-Create show-off-able and awesome interactive web apps that will make everyone ask how you did it.
+Create and share interactive web apps that will make everyone ask how you did it.
 
 Students will be using HTML, CSS, and JavaScript to create impressive applications that will be hosted on your own website. 
 
